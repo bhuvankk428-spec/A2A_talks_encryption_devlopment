@@ -48,3 +48,52 @@
 24. The history of post-quantum cryptography also shows why caution is necessary. SIKE, once seen as a promising candidate, was broken quickly by a classical attack, proving that ongoing review and algorithm diversity are important.
 
 25. The overall conclusion is clear: combining A2A communication with QUIC and replacing classical key exchange with ML-KEM or hybrid ML-KEM creates a transport layer that is faster, more resilient, and better prepared for the quantum era.
+
+
+
+| # | Topic | Channel | Link |
+|---|---|---|---|
+| 1 | Quantum threat & Shor's algorithm | Veritasium | youtu.be/-UrdExQW0cs |
+| 2 | Shor's algorithm (short) | minutephysics | youtu.be/lvTqbM5Dq4Q |
+| 3 | QUIC & HTTP/3 deep dive | Hussein Nasser | youtu.be/Z14az1B_AFk |
+| 4 | HTTP 1 vs 2 vs 3 animated | ByteByteGo | youtu.be/UMwQjFzTQXw |
+| 5 | QUIC becomes IETF standard | Hussein Nasser | youtu.be/Ky5nTTzMrpE |
+| 6 | TLS history & what it does | Computerphile | youtu.be/0TLDTodL7Lc |
+| 7 | TLS handshake step by step | Computerphile | youtu.be/86cQJ0MMses |
+| 8 | HTTPS & TLS animated | ByteByteGo | youtu.be/j9QmMEWmcfo |
+| 9 | Post-quantum cryptography intro | Computerphile | youtu.be/tD-m0BgrCDw |
+| 10 | Quantum-safe crypto explained | IBM Technology | youtu.be/HrlCSS-KFYU |
+| 11 | NIST PQC standardisation | NIST Official | youtu.be/j_n8R4gAE9Y |
+| 12 | Grover's algorithm & AES safety | 3Blue1Brown | youtu.be/lvTqbM5Dq4Q |
+| 13 | Hybrid PQC deployment | Cloudflare | youtu.be/LyYtOGj8J5s |
+| 14 | Hybrid TLS 1.3 IETF design | USENIX Security | youtu.be/ODQv5tGBVEE |
+| 15 | Side-channel attacks explained | Computerphile | youtu.be/PuVMkSjhK-U |
+| 16 | Timing attacks on crypto | LiveOverflow | youtu.be/JHRnAXyy-fE |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
